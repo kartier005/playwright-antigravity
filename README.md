@@ -1,6 +1,6 @@
-# GÖRSEL PROGRAMLAMA FİNAL ÖDEVİ
+# NESNE TABANLI PROGRAMLAMA PROGRAMLAMA FİNAL ÖDEVİ
 
-Bu proje, Görsel Programlama dersi final ödevi kapsamında hazırlanmıştır. Ödevin gereksinimleri doğrultusunda **Google Antigravity** kullanılarak araştırma yapılmış ve **Playwright** ile bir web scraping (veri çekme) otomasyon projesi geliştirilmiştir.
+Bu proje, NESNE TABANLI PROGRAMLAMA dersi final ödevi kapsamında hazırlanmıştır. Ödevin gereksinimleri doğrultusunda **Google Antigravity** kullanılarak araştırma yapılmış ve **Playwright** ile bir web scraping (veri çekme) otomasyon projesi geliştirilmiştir.
 
 ---
 
